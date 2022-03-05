@@ -58,7 +58,7 @@ $articles = $article->index();
     ?>
     <div class="container">
         <div style="display: flex; justify-content:space-between">
-            <h2>Profile List</h2>
+            <h2>Article List</h2>
             <h2><a href="create.php" class="write-new-article-button">Write New Article</a></h2>
         </div>
 
